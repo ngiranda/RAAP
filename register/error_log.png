@@ -1,0 +1,4 @@
+[11-Mar-2015 05:58:55 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/cheerguyme/public_html/register/index.php on line 18
+[13-Mar-2015 19:42:55 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/cheerguyme/public_html/register/index.php on line 28
+[13-Mar-2015 19:44:19 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/cheerguyme/public_html/register/index.php on line 29
+[13-Mar-2015 19:44:42 UTC] PHP Fatal error:  Call to a member function execute() on a non-object in /home/cheerguyme/public_html/register/index.php on line 29
